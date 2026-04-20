@@ -1,2 +1,0 @@
-# dovin-s-repository
-hello
